@@ -1,4 +1,3 @@
-Attribute VB_Name = "NewMacros"
 Sub TypesetAndSave()
     Dim newPath As String
     
@@ -10,6 +9,10 @@ Sub TypesetAndSave()
     Selection.WholeStory
     Selection.Font.Name = "Times New Roman"
     Selection.Font.Size = 11
+    
+    If ActiveDocument.Paragraphs(8).Range.Characters.Count < 4 Then
+        ActiveDocument.Paragraphs(8).Range.Delete
+    End If
     
     If ActiveDocument.Paragraphs(8).Range.Characters.Count < 4 Then
         ActiveDocument.Paragraphs(8).Range.Delete
