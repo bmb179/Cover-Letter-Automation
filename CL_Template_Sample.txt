@@ -1,0 +1,28 @@
+FirstName LastName
+Anytown, USA 01234
+first.last@gmail.com
+(123) 456-7890
+
+[Date]
+
+[Hiring Manager 1]
+[Hiring Manager Title]
+[Business Name]
+[Business Address]
+[Business City State Zip]
+
+Re: [Position] role at [Business Name]
+
+Dear [Hiring Manager 2],
+
+I am writing to express my interest in the [Position] role at [Business Name]. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+I am confident that my skills and experience would be a valuable asset to your team. I am eager to learn more about the [Position] role at [Business Name] and how I can contribute to your company's success.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+FirstName LastName
